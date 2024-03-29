@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811018333400",
+    "project_id": "firedetection-3880a",
+    "storage_bucket": "firedetection-3880a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811018333400:android:e8146760e57c19536d7bad",
+        "android_client_info": {
+          "package_name": "com.example.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811018333400-nmjim3n2hu4robdmcib7917ej6j255cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_v9LfYGxcJQyUqPssNCg_CqcHhi4avY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811018333400-nmjim3n2hu4robdmcib7917ej6j255cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
